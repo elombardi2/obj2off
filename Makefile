@@ -1,5 +1,5 @@
 TARGET = obj2off
-LIBS = -Wl,--subsystem,windows
+LIBS = 
 CFLAGS = -I.
 
 .PHONY: default all clean
